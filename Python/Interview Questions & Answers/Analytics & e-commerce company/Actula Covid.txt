@@ -1,0 +1,31 @@
+Total Population: 200,000
+Positives: 20,000
+False Positive: 20%
+False Negative: 30%
+
+### How many are actually covid positive ##
+
+1st we need to find out how many false positive are there.
+False positive means wrongly indicated that particular condition is present
+so we have to look inti postive patient to calulate this
+false_positive = 20,000 * 0.2
+false_positive = 4,000
+
+So actual covid patient in positive list is only
+actual_positve = 20,000 - 4,000
+actual_positive = 16,000
+
+But we need to calculate False negative as well
+That how many false negative in those who are are detected as positive
+False negative means that particular condition is present but not detected
+So we have to look those people those are not detected as postive
+
+Not_detectecd = 200,000 - 20,000
+Not_detectecd = 180,000
+actual_postive_in_not_detected = 180,000 * 0.3
+actual_postive_in_not_detected = 54,000
+
+So we need to add them both to find actual positive covid
+actual_positive + actual_postive_in_not_detected
+16,000 + 54,000
+70,000

@@ -1,0 +1,37 @@
+
+Coin Problem
+
+If we have eight coins
+Coins are same except one
+which is heavier than others
+so how we find this coin in maximum two iteration
+
+##########
+# Answer #
+##########
+
+'1' is heavier coin than others
+coins = [0,0,0,0,1,0,0,0]
+
+first we divide it into three equal subset if possible
+either last subset will be smaller than others
+
+## 1st iteration ##
+one = [0,0,0]
+two = [0,1,0]
+three = [0,0]
+compare one and two
+as we see two is heavier than one
+so split two into three subset
+
+## 2nd iteration ##
+one = [0]
+two = [1]
+three = [0]
+compare one and two
+one is heavier than two
+so split one int two subset
+
+### Found! ##
+Bingo! we found Heavier coin in just two steps
+two = [1] [1]
