@@ -1,0 +1,307 @@
+Geography Quiz
+
+Name:
+Roll No:
+Date
+
+
+
+1) What is the captial of Iowa
+A : Michigan
+B : Mississippi
+C : North Dakota
+D : Des Moines
+
+2) What is the captial of New York
+A : Albany
+B : South Carolina
+C : Oklahoma
+D : Illinois
+
+3) What is the captial of Kentucky
+A : Hawaii
+B : Frankfort
+C : Virginia
+D : Mississippi
+
+4) What is the captial of Indiana
+A : Indianapolis
+B : Louisiana
+C : Massachusetts
+D : New Mexico
+
+5) What is the captial of Texas
+A : Maryland
+B : Austin
+C : Ohio
+D : New York
+
+6) What is the captial of Alabama
+A : Missouri
+B : Montgomery
+C : Arkansas
+D : Montana
+
+7) What is the captial of New Mexico
+A : Santa Fe
+B : Massachusetts
+C : Oregon
+D : Rhode Island
+
+8) What is the captial of Utah
+A : New Hampshire
+B : Salt Lake City
+C : Georgia
+D : Michigan
+
+9) What is the captial of Montana
+A : Georgia
+B : Washington
+C : Oklahoma
+D : Helena
+
+10) What is the captial of Connecticut
+A : North Carolina
+B : Hartford
+C : South Dakota
+D : North Dakota
+
+11) What is the captial of Idaho
+A : Georgia
+B : Boise
+C : Hawaii
+D : Connecticut
+
+12) What is the captial of Kansas
+A : Tennessee
+B : Wyoming
+C : Topeka
+D : Rhode Island
+
+13) What is the captial of North Dakota
+A : New Jersey
+B : Illinois
+C : Texas
+D : Bismarck
+
+14) What is the captial of Louisiana
+A : Nevada
+B : Kentucky
+C : Illinois
+D : Baton Rouge
+
+15) What is the captial of South Dakota
+A : Vermont
+B : Arizona
+C : Oklahoma
+D : Pierre
+
+16) What is the captial of Virginia
+A : West Virginia
+B : Maine
+C : Richmond
+D : Oklahoma
+
+17) What is the captial of West Virginia
+A : Charleston
+B : Tennessee
+C : Wyoming
+D : Iowa
+
+18) What is the captial of Wyoming
+A : Arkansas
+B : Cheyenne
+C : Vermont
+D : Texas
+
+19) What is the captial of Florida
+A : Pennsylvania
+B : Connecticut
+C : Minnesota
+D : Tallahassee
+
+20) What is the captial of South Carolina
+A : Idaho
+B : Columbia
+C : Arizona
+D : New York
+
+21) What is the captial of Colorado
+A : Arkansas
+B : Denver
+C : New York
+D : Georgia
+
+22) What is the captial of Washington
+A : Olympia
+B : Nebraska
+C : Delaware
+D : Virginia
+
+23) What is the captial of Hawaii
+A : Massachusetts
+B : Honolulu
+C : California
+D : Indiana
+
+24) What is the captial of Oregon
+A : Salem
+B : Tennessee
+C : Hawaii
+D : Virginia
+
+25) What is the captial of California
+A : Sacramento
+B : Indiana
+C : New York
+D : Georgia
+
+26) What is the captial of Vermont
+A : West Virginia
+B : Arkansas
+C : Montpelier
+D : Oklahoma
+
+27) What is the captial of New Jersey
+A : Wyoming
+B : Trenton
+C : Hawaii
+D : New Hampshire
+
+28) What is the captial of Nebraska
+A : Lincoln
+B : Washington
+C : Wisconsin
+D : Massachusetts
+
+29) What is the captial of Minnesota
+A : Louisiana
+B : Saint Paul
+C : Texas
+D : Missouri
+
+30) What is the captial of Nevada
+A : Michigan
+B : Massachusetts
+C : Montana
+D : Carson City
+
+31) What is the captial of Missouri
+A : North Carolina
+B : Jefferson City
+C : Oklahoma
+D : Arkansas
+
+32) What is the captial of Alaska
+A : Rhode Island
+B : New Mexico
+C : Juneau
+D : South Carolina
+
+33) What is the captial of Georgia
+A : Washington
+B : Arkansas
+C : Atlanta
+D : Massachusetts
+
+34) What is the captial of Massachusetts
+A : Boston
+B : Wyoming
+C : Montana
+D : Washington
+
+35) What is the captial of Michigan
+A : South Dakota
+B : Rhode Island
+C : Lansing
+D : New Jersey
+
+36) What is the captial of Oklahoma
+A : Texas
+B : Oklahoma City
+C : Georgia
+D : Massachusetts
+
+37) What is the captial of Pennsylvania
+A : Mississippi
+B : Harrisburg
+C : Tennessee
+D : Missouri
+
+38) What is the captial of Tennessee
+A : Mississippi
+B : New York
+C : Nevada
+D : Nashville
+
+39) What is the captial of Arkansas
+A : Little Rock
+B : Wyoming
+C : Washington
+D : Georgia
+
+40) What is the captial of Ohio
+A : Indiana
+B : Columbus
+C : Oklahoma
+D : Nevada
+
+41) What is the captial of Arizona
+A : Phoenix
+B : Nevada
+C : Indiana
+D : Arkansas
+
+42) What is the captial of Wisconsin
+A : Colorado
+B : Madison
+C : Oregon
+D : Ohio
+
+43) What is the captial of North Carolina
+A : Kentucky
+B : Florida
+C : Raleigh
+D : Indiana
+
+44) What is the captial of Maryland
+A : Annapolis
+B : Iowa
+C : Pennsylvania
+D : New Hampshire
+
+45) What is the captial of Mississippi
+A : Oklahoma
+B : Arkansas
+C : Jackson
+D : New York
+
+46) What is the captial of Delaware
+A : Dover
+B : Tennessee
+C : Oregon
+D : South Carolina
+
+47) What is the captial of Rhode Island
+A : Iowa
+B : Providence
+C : Idaho
+D : Indiana
+
+48) What is the captial of New Hampshire
+A : North Dakota
+B : Missouri
+C : Concord
+D : Pennsylvania
+
+49) What is the captial of Maine
+A : New York
+B : Texas
+C : North Carolina
+D : Augusta
+
+50) What is the captial of Illinois
+A : Springfield
+B : Alabama
+C : Indiana
+D : New Hampshire
